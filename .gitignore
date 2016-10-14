@@ -1,0 +1,7 @@
+# ignore all
+*
+
+# except the following:
+!ms-sql-db-connection.groovy
+!readme.md
+!.gitignore
