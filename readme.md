@@ -4,7 +4,7 @@ This groovy script for SoapUI Pro/ReadyAPI! that connects to an Microsoft MS SQL
 
 ## Requirements & Resources
 
-* [Microsoft JDBC Drivers 6.0, 4.2, 4.1, and 4.0 for SQL Server](https://www.microsoft.com/en-us/download/details.aspx?id=11774)
+* [Microsoft JDBC Drivers 6.0, 4.2, 4.1, and 4.0 for SQL Server](https://www.microsoft.com/en-ca/download/details.aspx?id=11774)
   * **Note**: ReadyAPI 1.8.0 does not support the JDBC 6.0 drives
 * [Groovy SQL Documentation](http://docs.groovy-lang.org/latest/html/api/groovy/sql/Sql.html)
 
