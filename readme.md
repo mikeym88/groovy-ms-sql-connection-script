@@ -1,4 +1,4 @@
-# Groovy MS SQL Connection Script
+# SoapUI: Setting up a Groovy MS SQL Connection Script
 
 This groovy script for SoapUI Pro/ReadyAPI! that connects to an Microsoft MS SQL Server.
 
